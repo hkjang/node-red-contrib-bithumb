@@ -14,7 +14,7 @@ command in your Node-RED user directory, typically `~/.node-red`
     npm install node-red-contrib-bithumb
 
 ## Wrapper bithumb  API  
-https://apidocs.bithumb.com/docs/
+https://apidocs.bithumb.com/docs/account
 
 ## Sample parameters
 ```js
