@@ -1,0 +1,16 @@
+{
+  "bithumb" : {
+    "label" : {
+      "api": "API",
+      "category": "API Category",
+      "order_currency": "Order currency",
+      "payment_currency": "Payment currency"
+    },
+    "desc" : {
+      "api": "account,balance,wallet_address,ticker,orders,order_detail,user_transactions,place,cancel,market_buy,market_sell,stop_limit,btc_withdrawal,krw_withdrawal",
+      "category": "info,trade",
+      "order_currency": "Order currency (coin), ALL (all), default: BTC",
+      "payment_currency": "Payment currency (market), input value: KRW or BTC"
+    }
+  }
+}

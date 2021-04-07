@@ -1,0 +1,16 @@
+{
+  "bithumb" : {
+    "label" : {
+      "api": "API",
+      "category": "API카테고리",
+      "order_currency": "주문 통화",
+      "payment_currency": "결제 통화"
+    },
+    "desc" : {
+      "api": "account,balance,wallet_address,ticker,orders,order_detail,user_transactions,place,cancel,market_buy,market_sell,stop_limit,btc_withdrawal,krw_withdrawal",
+      "category": "info,trade",
+      "order_currency": "주문 통화(코인),ALL(전체),기본값 : BTC",
+      "payment_currency": "결제 통화(마켓),입력값 : KRW 혹은 BTC"
+    }
+  }
+}

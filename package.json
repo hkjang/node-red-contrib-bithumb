@@ -1,0 +1,36 @@
+{
+  "name": "node-red-contrib-bithumb",
+  "version": "1.0.0",
+  "description": "Node-RED node for bithumb",
+  "main": "node.js",
+  "scripts": {
+    "test": "mocha \"test/**/*_spec.js\" --timeout 3000"
+  },
+  "node-red": {
+    "nodes": {
+      "bithumb": "node.js"
+    }
+  },
+  "bugs": {
+    "url": "https://github.com/hkjang/node-red-contrib-bithumb/issues"
+  },
+  "homepage": "https://github.com/hkjang/node-red-contrib-bithumb#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkjang/node-red-contrib-bithumb.git"
+  },
+  "keywords": [
+    "node-red-contrib-contribgen",
+    "node-red",
+    "bithumb",
+    "bithumb api",
+    "빗썸",
+    "암호화폐",
+    "bithumb private api",
+    "bithumb public api"
+  ],
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "license": "Apache-2.0"
+}

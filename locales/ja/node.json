@@ -1,0 +1,16 @@
+{
+  "bithumb" : {
+    "label" : {
+      "api": "API",
+      "category": "API Category",
+      "order_currency": "注文通貨",
+      "payment_currency": "決済通貨"
+    },
+    "desc" : {
+      "api": "account,balance,wallet_address,ticker,orders,order_detail,user_transactions,place,cancel,market_buy,market_sell,stop_limit,btc_withdrawal,krw_withdrawal",
+      "category": "info,trade",
+      "order_currency": "注文通貨（コイン）、ALL、（全体）、デフォルト：BTC",
+      "payment_currency": "決済通貨（マーケット）は、入力値：KRWもしくはBTC"
+    }
+  }
+}
